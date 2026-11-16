@@ -8,7 +8,7 @@
 <title>Anthony Piai | Edição de vídeo, vídeos com IA, sites e criativos</title>
 <meta name="description" content="Anthony Piai: designer gráfico, programador e videomaker em Cerquilho - SP. Vídeos com IA, edição, sites e criativos entregues em até 24h. Solicite seu orçamento.">
 <meta name="theme-color" content="#0A0A0A">
-<link rel="canonical" href="https://SEU-DOMINIO.com.br/"><!-- [SUBSTITUIR] -->
+<link rel="canonical" href="https://anthonypiai.com.br/"><!-- [SUBSTITUIR] -->
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
